@@ -18,11 +18,11 @@ This project demonstrates how to create a sleek CSS Hover Slide-Up Animation usi
 # Preview
 
 <br />
-<span>Desktop</span>
+<span>Desktop Design</span><br/>
 <a href="https://www.behance.net/gallery/215828915/CSS-Hover-Slide-Up-Animation" target="_blank">
 <img style="width:350px;" src="./card_hover_effect.gif" alt="" /></a>
 <br />
-<span>Cover</span>
+<span>Cover Design</span><br/>
 <a href="https://www.behance.net/gallery/215828915/CSS-Hover-Slide-Up-Animation" target="_blank">
 <img style="width:350px;" src="./cover.png" alt="" /></a>
 <br />
